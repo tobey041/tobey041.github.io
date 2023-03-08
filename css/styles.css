@@ -172,6 +172,7 @@ address {
   margin-bottom: 1rem;
   font-style: normal;
   line-height: inherit;
+  text-transform: capitalize;
 }
 
 ol,
@@ -445,6 +446,7 @@ legend + * {
 [type="email"],
 [type="number"] {
   direction: ltr;
+  text-transform: capitalize;
 }
 */
 ::-webkit-search-decoration {
