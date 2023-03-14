@@ -357,7 +357,7 @@ textarea {
 
 button,
 select {
-  text-transform: none;
+  text-transform: capitalize;
 }
 
 [role=button] {
@@ -581,7 +581,7 @@ progress {
 
 .initialism {
   font-size: 0.875em;
-  text-transform: uppercase;
+  text-transform: capitalize ;
 }
 
 .blockquote {
