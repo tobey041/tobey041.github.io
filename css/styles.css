@@ -5773,7 +5773,7 @@ textarea.form-control-lg {
   text-align: start;
   text-decoration: none;
   text-shadow: none;
-  text-transform: none;
+  text-transform: capitalize;
   letter-spacing: normal;
   word-break: normal;
   word-spacing: normal;
@@ -5875,7 +5875,7 @@ textarea.form-control-lg {
   text-align: start;
   text-decoration: none;
   text-shadow: none;
-  text-transform: none;
+  text-transform: capitalize;
   letter-spacing: normal;
   word-break: normal;
   word-spacing: normal;
@@ -11313,7 +11313,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  text-transform: uppercase;
+  text-transform: capitalize ;
 }
 
 h1, .h1 {
