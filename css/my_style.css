@@ -21,3 +21,22 @@ text-transform: none;
     background-color: #000000;
     color:#ffff99
 }
+
+:root {
+  --bs-primary: #FFDC35;
+  --bs-primary-rgb:225,220,53;
+  --bs-secondary: #FF9224;
+  --bs-secondary-rgb: 255,146,36;
+}
+
+.expedu_icon:hover {
+  color:var(--bs-secondary);
+}
+
+a {
+  color:var(--bs-primary);
+}
+
+.social-icons .social-icon:hover {
+    background-color:var(--bs-secondary);
+}
