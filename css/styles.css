@@ -89,6 +89,10 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.bkcolor{
+background-color : #FFDC35;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -7812,7 +7816,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  
 }
 
 .bg-secondary {
